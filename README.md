@@ -2,7 +2,6 @@
 
 Natalie Tan
 IXD Winter Semester 2021
-Douglas Whitton
 
 CONTAINS:
 - Code files provided from school that were used for experiments 
